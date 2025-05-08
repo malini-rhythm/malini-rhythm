@@ -4,6 +4,8 @@
 
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Hemamalini+S;A+Learner;A+Data+Scientist;A+Data+Analyst;A+BI+Developer;A+ML+Researcher;)](https://git.io/typing-svg)
+
 
 I am Hemamalini S, a Data enthusiast with strong foundation in data science, Business intelligence tools and machine learning.<br>I enjoy building innovative solutions and have hands-on experience with various technologies.
 

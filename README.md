@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+</div>
+
+### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shsarv&label=Profile%20views&color=0e75b6&style=flat" alt="shsarv" /> </p>
 ## Hi there 👋
 
 I am Hemamalini S, a Data enthusiast with strong foundation in data science, Business intelligence tools and machine learning.<br>I enjoy building innovative solutions and have hands-on experience with various technologies.

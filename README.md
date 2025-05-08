@@ -13,7 +13,10 @@
 <h5 align="center">⚠️Info: This Tortoise 🐢 is in Hibernation for Indefinite Time⚠️</h5>
 
 
-I am Hemamalini S, a Data enthusiast with strong foundation in data science, Business intelligence tools and machine learning.<br>I enjoy building innovative solutions and have hands-on experience with various technologies.
+<p align="justify">Hello👋, I am Hemamalini S, A Learner with Master's in Computer Science at the University of Madras, I'm pushing the boundaries of AI, Explainable ML, and Business Intelligence tools . I specialize in leveraging Transformer-based models and state-of-the-art deep learning techniques to develop impactful, ethical, and inclusive AI solutions.
+
+In addition to my research, I bring strong analytical capabilities as a data analyst, transforming complex datasets into actionable insights. I proficiently utilize Pandas for data manipulation, Matplotlib and Seaborn for compelling data visualizations, and Power BI to build dynamic, interactive dashboards. My expertise in writing optimized DAX queries allows me to model and analyze business data with precision, enabling data-driven decision-making. My research is dedicated to crafting AI solutions that prioritize ethical applications, transparency, and inclusivity!</p>
+  
 
 
 

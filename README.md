@@ -8,10 +8,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Hemamalini+S;A+Learner;A+Data+Scientist;A+Data+Analyst;A+BI+Developer;A+ML+Researcher;" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&height=60&color=233CF7&center=true&vCenter=true&lines=I+am+Hemamalini+S;A+Learner;A+Data+Scientist;A+Data+Analyst;A+BI+Developer;A+ML+Researcher;" alt="Typing SVG" />
-</a>
-
 
 <p align="center">
   <a href="mailto:sathya1894668@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
+  <img src="https://github.com/malini-rhythm/img_readme/blob/main/Rainbow.gif" alt="Rainbow GIF" width="100%"/>
 </div>
 
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/malini-rhythm/img_readme/blob/main/Earth.gif?raw=true" width="24"> 
